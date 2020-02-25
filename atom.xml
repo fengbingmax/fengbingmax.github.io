@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-25T13:32:15.518Z</updated>
+  <updated>2020-02-25T13:43:56.327Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,41 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub测试</title>
+    <link href="http://yoursite.com/2020/02/25/GitHub%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2020/02/25/GitHub测试/</id>
+    <published>2020-02-25T13:43:28.000Z</published>
+    <updated>2020-02-25T13:43:56.327Z</updated>
+    
+    <content type="html"><![CDATA[<p>###Github</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;###Github&lt;/p&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO测试第三例</title>
+    <link href="http://yoursite.com/2020/02/25/HEXO%E6%B5%8B%E8%AF%95%E7%AC%AC%E4%B8%89%E4%BE%8B/"/>
+    <id>http://yoursite.com/2020/02/25/HEXO测试第三例/</id>
+    <published>2020-02-25T13:42:20.000Z</published>
+    <updated>2020-02-25T13:42:20.308Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>hexo 测试第二例</title>
