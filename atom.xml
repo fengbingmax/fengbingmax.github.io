@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-25T13:43:56.327Z</updated>
+  <updated>2020-02-26T09:12:40.730Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -18,22 +18,19 @@
   
   <entry>
     <title>GitHub测试</title>
-    <link href="http://yoursite.com/2020/02/25/GitHub%E6%B5%8B%E8%AF%95/"/>
-    <id>http://yoursite.com/2020/02/25/GitHub测试/</id>
-    <published>2020-02-25T13:43:28.000Z</published>
-    <updated>2020-02-25T13:43:56.327Z</updated>
-    
-    <content type="html"><![CDATA[<p>###Github</p>]]></content>
+    <link href="http://yoursite.com/2020/02/26/GitHub%E6%B5%8B%E8%AF%95/"/>
+    <id>http://yoursite.com/2020/02/26/GitHub测试/</id>
+    <published>2020-02-26T09:11:52.000Z</published>
+    <updated>2020-02-26T09:12:40.730Z</updated>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;###Github&lt;/p&gt;
-      
-    
     </summary>
     
+      <category term="测试类" scheme="http://yoursite.com/categories/%E6%B5%8B%E8%AF%95%E7%B1%BB/"/>
+    
+    
+      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
     
   </entry>
   
