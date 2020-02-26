@@ -100,7 +100,7 @@ theme: fluid
 deploy:
   type: git
   repo: https://github.com/fengbingmax/fengbingmax.github.io.git
-  branch: hexo
+  branch: master
 # minifier
 all_minifier: true
 html_minifier:
